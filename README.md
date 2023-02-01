@@ -1,3 +1,3 @@
-# RnDSlack
+# Slack API
 
-Slack 알림
+Slack
